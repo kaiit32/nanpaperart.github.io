@@ -50,7 +50,11 @@ class MyHeader extends HTMLElement {
                 </li>
                  
                 
-                <li>
+				 <li>
+				   <a href="https://www.youtube.com/channel/UCodwvjW5kVpB_TdMXmqnUgQ" target=“_blank” class="pl-3 pr-3"><span class="icon-youtube-play"></span></a>
+				 </li>
+				 
+				<li>
                   <a href="https://www.instagram.com/nanpaper_art/" target=“_blank” class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                 </li>
                
