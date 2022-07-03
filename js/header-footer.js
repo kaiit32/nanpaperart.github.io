@@ -19,7 +19,7 @@ class MyHeader extends HTMLElement {
                   <li class="has-children">
                     <a >Gallery</a>
                     <ul class="dropdown">
-                      <li><a href="chinesesymbol.html">Chinese Symbol</a></li>
+                      <li><a href="Chinese symbol.html">Chinese Symbol</a></li>
                       <li><a href="quilling.html">Quill Craft</a></li>
                       <li><a href="silk.html">Silk in Bloom</a></li>
 					  <li><a href="LL.html">Life-like Flowers</a></li>
